@@ -1,0 +1,12 @@
+.genre_catalogue {
+    margin-top: 100px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    box-sizing: border-box;
+    height: 89.2vh;
+}
+
+.genre_catalogue a {
+    font-size: 20px;
+}

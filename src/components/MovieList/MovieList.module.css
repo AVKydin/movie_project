@@ -1,0 +1,32 @@
+.movie_card {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 520px;
+    width: 310px;
+    filter: grayscale(100%);
+    transition: 0.7s;
+}
+
+a{
+    text-decoration: none;
+}
+
+.movie_card h2 {
+    color: grey;
+    font-size: 25px;
+    height: 66px;
+    width: 100%;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.movie_card:hover {
+    background: #315a5f;
+    filter: grayscale(0%);
+}
+
+.img{
+    height: 410px;
+}

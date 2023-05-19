@@ -1,0 +1,28 @@
+.user_logo{
+    height: 70px;
+    width: 70px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #d0ac20;
+    font-size: 24px;
+    font-weight: bold;
+    position: absolute;
+    right: 50px;
+    z-index: 2;
+    text-align: center;
+    cursor: pointer;
+    line-height: 3;
+}
+
+.img{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    position: absolute;
+}
+
+.p{
+    z-index: 3;
+}
