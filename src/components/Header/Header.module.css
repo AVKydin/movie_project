@@ -23,6 +23,7 @@
 .body {
     border-radius: 5px;
     background: var(--background);
+    min-height: 100vh;
 }
 
 .menu  {
