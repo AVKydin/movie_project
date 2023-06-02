@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/movie_project/static/css/main.85473b31.css",
+    "main.js": "/movie_project/static/js/main.b7757d2b.js",
+    "index.html": "/movie_project/index.html",
+    "main.85473b31.css.map": "/movie_project/static/css/main.85473b31.css.map",
+    "main.b7757d2b.js.map": "/movie_project/static/js/main.b7757d2b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.85473b31.css",
+    "static/js/main.b7757d2b.js"
+  ]
+}
