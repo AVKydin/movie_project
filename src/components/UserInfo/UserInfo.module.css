@@ -26,3 +26,16 @@
 .p{
     z-index: 3;
 }
+
+@media screen and (max-width:1024px){
+     .user_logo{
+        height: 40px;
+        width: 40px;
+        font-size: 16px;
+        right: 30px;
+    }
+    .img{
+        height: 25px;
+        width: 25px;
+    }
+}

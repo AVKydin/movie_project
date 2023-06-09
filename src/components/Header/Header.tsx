@@ -31,7 +31,7 @@ const Header: FC = () => {
                     <UserInfo/>
                 </div>
             </div>
-            <Outlet/>
+            <Outlet/> || {<h2 className={css.start}>Виберіть будь ласка розділ</h2>}
         </div>
     );
 };
