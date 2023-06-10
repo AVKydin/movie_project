@@ -2,7 +2,7 @@
   "name": "movie_project",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://avkydin.github.io/movie_project/",
+  "homepage": "https://avkydin.github.io/movies",
   "dependencies": {
     "@hookform/resolvers": "^3.1.0",
     "@reduxjs/toolkit": "^1.9.5",
