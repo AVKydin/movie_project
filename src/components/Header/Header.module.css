@@ -128,9 +128,9 @@ input:checked + .slider:before {
 }
 
 @media screen and (max-width:1024px){
-    .header{
-        height: 80px;
-    }
+    /*.header{*/
+    /*    height: 80px;*/
+    /*}*/
     .menu  {
         font-size: 1.5rem;
     }
